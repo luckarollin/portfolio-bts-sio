@@ -20,7 +20,7 @@ else                           { $sal = 'Bonne nuit ⭐'; }
   <p class="hero-desc">Spécialisé dans l'administration systèmes, les réseaux et la gestion de parc. Rigoureux et motivé, j'aime relever des défis techniques et trouver des solutions efficaces.</p>
   <div class="hero-btns">
     <a class="btn" href="vues/contact.php">Me contacter</a>
-    <a class="btn g" href="CV_vierge.pdf" download>Télécharger le CV</a>
+    <a class="btn g" href="CV-Vierge.pdf" download>Télécharger le CV</a>
   </div>
   <ul class="pills">
     <li>Autonomie</li><li>Curiosité</li><li>Rigueur</li><li>Permis B</li>
